@@ -58,7 +58,7 @@ This section explores how text is processed in LLMs, focusing on tokenization an
 
 ## Usage
 
-  Wse tokenization_mlx file on Apple Silcon Macs
+  Use tokenization_mlx file on Apple Silcon Macs
 
   
 
